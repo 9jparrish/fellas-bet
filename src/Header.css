@@ -1,0 +1,17 @@
+.headerbar {
+  height: 10%;
+  background-color: #36649d;
+  position: sticky;
+  top: 0;
+  /* z-index: 100; */
+}
+
+.nav_bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: larger;
+  margin-left: 10px;
+  font-size: 40px;
+  font-weight: bold;
+}
